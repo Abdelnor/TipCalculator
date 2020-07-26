@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="hintValor">Digite um valor! Ex: 35.50</string>
+    <string name="txtTip">Gorjeta</string>
+    <string name="txtTotal">Total</string>
+</resources>
